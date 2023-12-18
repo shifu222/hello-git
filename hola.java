@@ -10,5 +10,7 @@ class hola{
             System.out.print(nombre +" ");
         }
 
+        System.out.println("hola mundo");
+
     }
 }
