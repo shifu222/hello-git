@@ -12,5 +12,7 @@ class hola{
 
         System.out.println("hola mundo");
 
+        System.out.println("alo");
+
     }
 }
